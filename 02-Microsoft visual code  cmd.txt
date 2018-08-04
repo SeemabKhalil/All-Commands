@@ -1,0 +1,11 @@
+
+
+
+
+===============================Miscrosoft visual code Commands============>
+ctrl + backstick ( To open termianla of visual code )
+ctrl + select the file and put in the codinf area (divide the screen)
+ctrl + b ( to off the side terminal )
+alt + selct the path where to the data 
+ctrl + f2 slect all the div like that and chagne at a time
+if your forgot some in code then press ctrl + space 

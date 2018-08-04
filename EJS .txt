@@ -1,0 +1,8 @@
+Basic syntax is 
+
+<%= value %> 
+
+// TERMINAL
+npm install ejs --save
+// SERVER.JS
+app.set('view engine', 'ejs')

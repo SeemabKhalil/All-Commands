@@ -1,0 +1,9 @@
+Using Pug is just as easy. Here are the three steps:
+
+Install Pug into your project: npm install pug --save
+Set up your view engine: app.set(‘view engine’, ‘pug’)
+Create a .pug file
+
+ npm i pug-bootstrap
+
+include /node_modules/pug-bootstrap/_bootstrap.pug

@@ -1,0 +1,30 @@
+npm install -g swagger
+swagger project create hello-world
+swagger project start 
+http://127.0.0.1:10010/hello?name=Scott
+swagger project edit
+npm install yamljs
+npm install debug
+npm install swagger-tools
+
+============================weather api example=============================
+npm install request --save
+
+yaml is converted to html and css to into front end 
+
+if we create  a entire box of loopback name fiels so in swaager we write inside the
+defination and undr propties field 
+
+In this way we write Api through yaml
+
+Practice Api Websites {
+	:randomuser.me
+	:swapi
+}
+ weback how they used
+start . to open the folder
+
+npm install --save swagger-ui
+npm install -save swagger-ui-dist
+Downlaod:
+https://github.com/swagger-api/swagger-editor.git

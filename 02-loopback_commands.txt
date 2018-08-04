@@ -1,0 +1,52 @@
+
+==============================loopback========================================
+npm install -g strongloop
+lb loopback:realtion {relation about models} ==>lb relation
+				==>e.g >employee has many asset 
+					and cannot select fk bcz its default selected
+through model is to add further functionlity in model
+how to apply filter in url
+
+?filter[fields][data set which i want to show or hidden]=false or true
+
+some [custom] method in loopback we add our api using code to add
+
+lb:acl {all methods are hold}
+
+npm install loopback-console --save  after package.json file adding this{
+ "console": "loopback-console"
+}
+.exit
+filename.find();
+and than find specfic path to google it
+
+//custom port
+module.exports = {
+  host: process.env.CUSTOM_HOST,
+  port: process.env.CUSTOM_PORT
+};
+
+
+json data ko filter karny kye lea query lagty haan wo bi json formet mi
+like that 
+{
+{"firstname":"seemab"}
+}
+
+===========================Strongstudio=================================
+what is and how they used ??
+1-strong-studio
+2-npm install -g http://get-studio.strongloop.com/strong-studio.tgz
+
+lb middalware and then follow the commands===============>
+
+======================???????????????Correct answer???????????????_________
+path uri:/x wrong
+path uri:${restApiRoot}
+==========================Basic Hooks==================================
+Three types of hooks
+1.beforeRemote()
+2.afterRemote()
+3.afterRemoteError()
+and other remote and connector hook
+vist aws to create link of a video

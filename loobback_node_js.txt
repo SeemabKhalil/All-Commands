@@ -1,0 +1,6 @@
+===================================================================================================
+=================================Loobback node js==================================================
+first install the looback and then name
+and run the command node .
+and further cmmadn 
+creating lb model { to create the model }

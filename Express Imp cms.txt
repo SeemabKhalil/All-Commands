@@ -1,0 +1,5 @@
+ejs and pug like html let see
+
+res.render()Using 3 para 1 is our files indicte 2 objext {} and 3rd one is callback function
+
+reload command 

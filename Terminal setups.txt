@@ -1,0 +1,8 @@
+
+=====================================================termianal====================================================
+iterm 2 mac
+and fash as like that bash These are the terminals 
+=========================================================Server browser===============================================
+lodash websites npm i -g npm and { npm i --save lodash} =>npm install lodash
+and
+live-server { npm install -g live-server} and then live-server
